@@ -8,6 +8,12 @@ This project is time-delay-contract with data from blockchain.
 
 ## Available Scripts
 
+### Prepair to start
+
+```bash
+    yarn
+```
+
 ### Building for production.
 
 ```bash
@@ -22,5 +28,4 @@ This project is time-delay-contract with data from blockchain.
 
 ## Warning
 
-Before running this project, you have to clone backend and start first to run the server.
-(https://github.com/fringe-finance/time-delay-backend)
+Before running this project, you have to clone backend and start first to run [the server](https://github.com/fringe-finance/time-delay-backend).
