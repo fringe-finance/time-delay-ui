@@ -1,18 +1,12 @@
-# pending-fe
+# Time delay UI
 
 This project was generated with [superplate](https://github.com/pankod/superplate).
 
 ## Getting Started
 
-superplate is a Next.js all-in-one project generator. Create your project with the tools you need without spending hours on setting them up.
+This project is time-delay-contract with data from blockchain.
 
 ## Available Scripts
-
-### Running the development server.
-
-```bash
-    yarn dev
-```
 
 ### Building for production.
 
@@ -26,6 +20,7 @@ superplate is a Next.js all-in-one project generator. Create your project with t
     yarn start
 ```
 
-## Learn More
+## Warning
 
 Before running this project, you have to clone backend and start first to run the server.
+(https://github.com/fringe-finance/time-delay-backend)
