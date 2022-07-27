@@ -14,6 +14,8 @@ This project is time-delay-contract with data from blockchain.
     yarn
 ```
 
+Init .env file and patse from .env.example
+
 ### Building for production.
 
 ```bash
