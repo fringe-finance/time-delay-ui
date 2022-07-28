@@ -91,7 +91,7 @@ export const PendingTable = ({ timeType, filter }) => {
   useEffect(() => {
     void (async () => {
       const res = await axios.get(
-        process.env.REACT_APP_API + `?pending=${filter}`
+        process.env.REACT_APP_API + "polygon" + `?pending=${filter}`
       );
       if (res) setData(res.data.data);
     })();
